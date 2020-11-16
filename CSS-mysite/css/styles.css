@@ -1,0 +1,53 @@
+
+body
+{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Space Grotesk', sans-serif;
+}
+h1{
+    width: 288px;
+    margin: 0 auto 0 auto;
+}
+
+.top-container{
+       background-color: cadetblue;
+       position: relative;
+       padding-top: 100px;
+}
+
+.middle-container{
+    background-color: cadetblue;
+}
+
+.bottom-container{
+    background-color: cadetblue;
+}
+
+.bottom_cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top_cloud{
+   position: absolute;
+   top: 50px;
+   right: 300px;
+}
+.profilePic{
+    height: 200px;
+    width: 200px;
+}
+.devPic{
+    height: 200px;
+    width: 200px;
+}
+.basketPic{
+    height: 200px;
+    width: 200px;
+}
+
+.fa-linkedin{
+    cursor: pointer;
+}
